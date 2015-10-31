@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Exinus Events]]></title>
         <description><![CDATA[Exinus Events]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/exinus-events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 11:54:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 31 Oct 2015 22:20:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/exinus-events/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Events]]></title>
+            <description><![CDATA[<article><h1>Events</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/354c0920-73c3-4107-a3b4-2c164c0a2bc5.png"></article>]]></description>
+            <link>https://thegrid.ai/exinus-events/events/index.html</link>
+            <guid isPermaLink="false">949a614a-9ac4-4cb7-874d-e86f00381c26</guid>
+            <pubDate>Sat, 31 Oct 2015 22:17:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/exinus-events/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">dde294e4-4dc2-4957-b17a-a4d1ed329cd0</guid>
             <pubDate>Mon, 26 Oct 2015 11:54:17 GMT</pubDate>
         </item>
