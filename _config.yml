@@ -1,23 +1,40 @@
-name: Exinus Events
 favicon: null
-layout_spectrum: 0.612474367255345
-typography_spectrum: 0.46116859070025384
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Exinus Events
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.6049709802027792
-  lightness: 0.5305155462119728
-  saturation: 0.5375792488921434
-  rhythmicContrast: 0.1940208929590881
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5375792488921434
+  brandStrength: 0.8387097
+  lightness: 0.5305155462119728
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#BDBDBD'
+    - '#E0E0E0'
+    - '#3F3F3F'
+  rhythmicContrast: 0.1940208929590881
+typography_spectrum: 0.4611685907002538
+layout_spectrum: 0.612474367255345
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
