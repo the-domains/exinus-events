@@ -4,8 +4,15 @@
         <description><![CDATA[Exinus Events]]></description>
         <link>https://thegrid.ai/exinus-events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 22:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2015 00:16:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/exinus-events/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Weddings]]></title>
+            <description><![CDATA[<article><h1>Weddings</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41237f7b-3c1c-48d6-ac80-4cff84a676b0.png"></article>]]></description>
+            <link>https://thegrid.ai/exinus-events/weddings/index.html</link>
+            <guid isPermaLink="false">f3245e92-86bf-4760-99e2-bdc1aaf45e7e</guid>
+            <pubDate>Sun, 01 Nov 2015 00:15:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Events]]></title>
             <description><![CDATA[<article><h1>Events</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/354c0920-73c3-4107-a3b4-2c164c0a2bc5.png"></article>]]></description>
