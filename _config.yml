@@ -1,7 +1,7 @@
 name: Exinus Events
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.4032258
+typography_spectrum: 0.25186
 collections:
   - index:
       path: /
